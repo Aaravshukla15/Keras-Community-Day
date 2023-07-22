@@ -141,13 +141,13 @@ header {
 }
 
 .header__image img:nth-child(1) {
-  max-width: 350px;
+  max-width: 250px;
   /* height: 400px; */
   transform: translate(-75%, -50%);
 }
 
 .header__image img:nth-child(2) {
-  max-width: 250px;
+  max-width: 180px;
   transform: translate(0%, -25%);
 }
 
