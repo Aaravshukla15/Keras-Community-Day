@@ -1,2 +1,3 @@
-# Pathway_05-05-23
-Learn how to design a professional and responsive travel website landing page with HTML and CSS in this step-by-step tutorial.
+# Keras Community Day Dur
+This web page is designed for Keras Community Day Durg. Our main motive behind this event is to promote keras among students and inform them about the features and services provided by Keras.
+
