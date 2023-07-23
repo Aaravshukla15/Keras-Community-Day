@@ -516,7 +516,7 @@ height: 60px;
 }
 
 .footer__bar a{
-  text-decoration: none;
+/*   text-decoration: none; */
   color: inherit;
 }
 
